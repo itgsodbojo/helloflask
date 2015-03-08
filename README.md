@@ -13,7 +13,7 @@ Ni kan skapa en distribution genom att ange följande i en terminal, i samma kat
  
     pip install helloflask-0.0.1.dev0.tar.gz
 
-Om ni ska göra en egen  behöver ni åtminstone
+Om ni ska göra en egen  behöver ni åtminstone ändra i
 
 - setup.py
     
