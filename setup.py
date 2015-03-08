@@ -16,6 +16,7 @@ setup(
     version=version,
     description="helloflask testing deployment",
     packages=['helloflask'],
+    include_package_data=True,
     install_requires=requirements,
     zip_safe=False,
     test_suite='tests',

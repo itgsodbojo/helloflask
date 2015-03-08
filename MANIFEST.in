@@ -2,3 +2,5 @@ include requirements.txt
 include README.md
 include LICENSE
 recursive-include *.py
+recursive-include helloflask/static *
+recursive-include helloflask/templates *
